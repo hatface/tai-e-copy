@@ -1,1 +1,3 @@
-# tai-e-copy
+# Tai-E Copy Project
+
+## 项目结构
